@@ -1,10 +1,9 @@
 <html>
+
 <body>
-	<h1 style="color: violet; font-size: 40px;" align="center">HI SURYA, 
-		YOU HAVE DEPLOYED YOUR CODE IN TOMCAT SERVER USING MASTER AND SLAVE 
-		AND IN ARTIFACT WITH THE HELP OF NEXUS</h1>
-	
-	
-	
+    <h2>Hello Jakarta EE 9 with Java 17 on Azure</h2>
+    <p>This is a JSP page</p>
+    <a href="./helloservlet">Hit the /hello Servlet</a>
 </body>
+
 </html>
