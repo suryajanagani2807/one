@@ -59,7 +59,7 @@
         <configuration>
           <schemaVersion>v2</schemaVersion>
           <resourceGroup>helloworld-1648163079675-rg</resourceGroup>
-          <appName>helloworld-1648163079675</appName>
+          <appName>camel-application</appName>
           <pricingTier>P2v2</pricingTier>
           <region>centralus</region>
           <runtime>
